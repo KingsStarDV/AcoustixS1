@@ -26,3 +26,10 @@ Here is the BOM (Bill of Material)-
 |4|ICL7660|3|16*3|https://www.flyrobo.in/dip-icl7660scpa-icl7660-voltage-converter?tracking=ads&srsltid=AfmBOoo3MLkpT5Gyp6UgQnQZFWdhEINSU_W61YdFdvCVHnpsDx7bY_9tG_k
 |5|Rotary Encoder|1|50|https://www.flyrobo.in/5v_ky-040_rotary_encoder_module_for_arduino?search=rotary%20encoder&description=true
 |6|Oled Display|1|215|https://www.flyrobo.in/oled-0-96-inch-i2c-display-module?search=oled%20Display&description=true
+|7|LM358|2|30*2|https://robu.in/product/lm358p-texas-instruments-operational-amplifier-2-amplifier-700-khz-0-4-v-%C2%B5s-%C2%B1-1-5v-to-%C2%B1-16v-dip-8-pins/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcb8t9bmv2to3qo8X2Oi7sTG&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3hejPrhMab3GLTCxWzCf_kiTKq6dgFQfSg1CrjJPDqELI7fEZG3_Ax-EaAstKEALw_wcB
+|8|Amplifier Board|1|1190|https://www.amazon.in/IDUINO-Amplifier-Preamplifier-TPA3116D2-Subwoofer/dp/B0CQGHNZ58/ref=sr_1_2?crid=10M3S6SRE8RZ8&dib=eyJ2IjoiMSJ9.7YzTH9HzSaZ28NdcMxazIYrhMGw2-NO5ZobP0l6Z_-lmO61WpZXKY5r55u4-ZbThF-_HDm30yjoPGPWWFeQcBRYC57qCe6B27T9T-bv9-kq-zYKvnDsEDVWmFwKtbn54gsfz8G6lukCXoDl1qIOMAgbJtSiMkoYh9zoiSzqEPzdIRBX2cBQTi8I8C8v1p86eVMiEZ76h7d8HBHHdIEswaSX7etXxZTui9dBkM6m7TU0.gk9Pa0s7PnDQo05fv2QOO_hlsBzedNGj8SIQMNVELEk&dib_tag=se&keywords=Iduino+150W&qid=1773639446&sprefix=iduino+150%2Caps%2C380&sr=8-2
+|9|18650 Samsung SDI cells|6|250*6|https://makerbazar.in/products/samsung-sdi-inr18650-li-ion-rechargeable-cells?variant=48251034140912
+|10| 6S BMS|1|500|https://makerbazar.in/products/24v-6s-40a-18650-lithium-battery-protection-board?variant=43443099992304
+
+
+Total- ₹4950      ($53)

@@ -30,6 +30,7 @@ Here is the BOM (Bill of Material)-
 |8|Amplifier Board|1|1190|https://www.amazon.in/IDUINO-Amplifier-Preamplifier-TPA3116D2-Subwoofer/dp/B0CQGHNZ58/ref=sr_1_2?crid=10M3S6SRE8RZ8&dib=eyJ2IjoiMSJ9.7YzTH9HzSaZ28NdcMxazIYrhMGw2-NO5ZobP0l6Z_-lmO61WpZXKY5r55u4-ZbThF-_HDm30yjoPGPWWFeQcBRYC57qCe6B27T9T-bv9-kq-zYKvnDsEDVWmFwKtbn54gsfz8G6lukCXoDl1qIOMAgbJtSiMkoYh9zoiSzqEPzdIRBX2cBQTi8I8C8v1p86eVMiEZ76h7d8HBHHdIEswaSX7etXxZTui9dBkM6m7TU0.gk9Pa0s7PnDQo05fv2QOO_hlsBzedNGj8SIQMNVELEk&dib_tag=se&keywords=Iduino+150W&qid=1773639446&sprefix=iduino+150%2Caps%2C380&sr=8-2
 |9|18650 Samsung SDI cells|6|250*6|https://makerbazar.in/products/samsung-sdi-inr18650-li-ion-rechargeable-cells?variant=48251034140912
 |10| 6S BMS|1|500|https://makerbazar.in/products/24v-6s-40a-18650-lithium-battery-protection-board?variant=43443099992304
-
+|11| 10K Resistors|3| 10*3| local market
+|12| 10nF Capcacitor|3| 15*3| local market
 
 Total- ₹4950      ($53)
